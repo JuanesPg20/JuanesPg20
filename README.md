@@ -63,27 +63,6 @@ const juanEsteban = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-## 📊 Estadísticas que Hablan por Sí Solas
-
-<div align="center">
-  
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300">
-
-<br><br>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuanesPg20&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=20&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&border_color=00D9FF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanesPg20&layout=compact&langs_count=8&theme=tokyonight&border_radius=20&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_color=00D9FF"/>
-
-<br><br>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=JuanesPg20&theme=tokyonight&border_radius=20&background=0D1117&border=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)](https://git.io/streak-stats)
-
-<br>
-
-### 🏆 Logros Desbloqueados
-[![trophy](https://github-profile-trophy.vercel.app/?username=JuanesPg20&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 

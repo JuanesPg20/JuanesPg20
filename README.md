@@ -150,8 +150,6 @@ console.log("¡Gracias por visitar mi perfil! 🙌");
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=¡Gracias%20por%20tu%20visita!&fontSize=16&fontAlignY=65&desc=Sigamos%20construyendo%20el%20futuro%20con%20código&descAlignY=50&descAlign=center"/>
 
-![Visitor Count](https://profile-counter.glitch.me/JuanesPg20/count.svg)
-
 </div>
 
 

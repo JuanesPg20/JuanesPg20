@@ -1,16 +1,79 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Juan Esteban
 
-<!--
-**JuanesPg20/JuanesPg20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Desarrollador Full Stack
 
-Here are some ideas to get you started:
+Soy un desarrollador apasionado por crear soluciones web completas y eficientes. Mi experiencia abarca tanto el frontend como el backend, siempre buscando las mejores prácticas y tecnologías modernas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Stack Tecnológico
+
+**Backend (Mi fuerte 💪)**
+- 🐘 **Laravel** - Framework principal para desarrollo backend
+- 🗄️ **MySQL/PostgreSQL** - Bases de datos relacionales
+- 🔧 **PHP** - Lenguaje de programación backend
+
+**Frontend**
+- ⚡ **Vue.js** - Framework JavaScript progresivo
+- ⚛️ **React** - Biblioteca para interfaces de usuario
+- 🎨 **Vuetify** - Framework de componentes Material Design para Vue
+- 🚀 **Quasar** - Framework Vue.js para aplicaciones multiplataforma
+- 🎯 **JavaScript/TypeScript** - Lenguajes de programación frontend
+
+**Herramientas y Tecnologías**
+- 🐳 **Docker** - Contenedorización
+- 📦 **Composer/NPM** - Gestores de paquetes
+- 🌐 **API REST** - Desarrollo de servicios web
+- 🔄 **Git** - Control de versiones
+
+### 🌱 Actualmente
+
+- 🔭 Trabajando en proyectos con **Laravel** y **Vue.js**
+- 🌱 Aprendiendo nuevas tecnologías del ecosistema JavaScript
+- 👯 Buscando colaborar en proyectos open source
+- 💬 Pregúntame sobre **Laravel**, **Vue.js**, **React** o **desarrollo full stack**
+
+### 📊 Estadísticas de GitHub
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JuanesPg20&show_icons=true&theme=radical)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanesPg20&layout=compact&theme=radical)
+
+### 🏆 Logros
+
+![Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=JuanesPg20&theme=radical&row=1&column=6)
+
+### 📫 Conecta conmigo
+
+- 💼 **LinkedIn**: [Tu LinkedIn](https://linkedin.com/in/tu-perfil)
+- 🐦 **Twitter**: [@tu_usuario](https://twitter.com/tu_usuario)
+- 📧 **Email**: tu.email@ejemplo.com
+- 🌐 **Portfolio**: [tu-portfolio.com](https://tu-portfolio.com)
+
+### ⚡ Dato curioso
+
+Cuando no estoy programando, me gusta [tu hobby favorito] y siempre estoy buscando nuevas formas de optimizar el código y mejorar la experiencia del usuario.
+
+---
+
+💡 *"El código es poesía en movimiento"* - Siempre buscando escribir código limpio y eficiente.
+
+![Visitantes del perfil](https://visitor-badge.laobi.icu/badge?page_id=JuanesPg20.JuanesPg20)
+```
+
+### 🎨 Características del README:
+
+1. **Estructura clara** con secciones bien definidas
+2. **Emojis** para hacer el contenido más visual y atractivo
+3. **Destacar Laravel** como tu fuerte principal
+4. **Estadísticas dinámicas** de GitHub que se actualizan automáticamente
+5. **Sección de contacto** para networking
+6. **Diseño profesional** pero con personalidad
+
+### 📝 Para personalizar:
+
+- Reemplaza `JuanesPg20` con tu username real de GitHub
+- Agrega tus enlaces reales de redes sociales
+- Personaliza el "dato curioso" con algo sobre ti
+- Ajusta los colores del theme (puedes usar: `dark`, `radical`, `merko`, `gruvbox`, `tokyonight`, etc.)
+
+¿Te gusta esta versión? ¿Quieres que ajuste algo específico o agregue alguna sección adicional?
+

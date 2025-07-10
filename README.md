@@ -51,27 +51,6 @@ const juanEsteban = {
 
 ---
 
-<div align="center">
-
-## 📊 Estadísticas que Hablan por Sí Solas
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300">
-
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuanesPg20&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanesPg20&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=JuanesPg20&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 🌟 Mi Filosofía de Desarrollo
 
 <div align="center">

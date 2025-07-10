@@ -208,10 +208,6 @@ console.log("¡Gracias por visitar mi perfil! 🙌");
 
 <br clear="both">
 
-### 📈 Mi Actividad en GitHub
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JuanesPg20&custom_title=Contribuciones%20de%20Juan%20Esteban&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true)
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
@@ -236,28 +232,6 @@ console.log("¡Gracias por visitar mi perfil! 🙌");
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&text=¡Gracias%20por%20tu%20visita!&fontSize=16&fontAlignY=65&desc=Sigamos%20construyendo%20el%20futuro%20con%20código&descAlignY=50&descAlign=center&animation=twinkling"/>
 ```
 
-### 🎨 ¡Nuevas características SÚPER GENIALES!
-
-1. **🌊 Headers y footers animados** con efectos de onda y estrellas
-2. **📊 Estadísticas mejoradas** con colores personalizados y bordes redondeados
-3. **📈 Gráfico de actividad** que muestra tus contribuciones
-4. **🐍 Animación de serpiente** con tus contribuciones
-5. **📱 Barras de progreso** para tu educación
-6. **🎵 Widget de Spotify** (opcional)
-7. **🔮 Sección de proyectos futuros** más detallada
-8. **🎭 Separadores animados** entre secciones
-9. **🎨 Colores consistentes** en toda la paleta
-10. **📱 Diseño más responsive** y profesional
-
-### ✨ Elementos dinámicos agregados:
-
-- **Gráficos de contribución** en tiempo real
-- **Contador de visitantes** dinámico
-- **Animaciones fluidas** entre secciones
-- **Efectos visuales** más impactantes
-- **Mejor organización** del contenido
-
-¡Este README es ahora SÚPER GENIAL y definitivamente llamará la atención de cualquiera que visite tu perfil! 🚀✨
 
 <Actions>
   <Action name="Configurar animación de serpiente" description="Ayudarte a configurar la GitHub Action para la animación de contribuciones" />

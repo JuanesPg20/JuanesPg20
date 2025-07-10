@@ -57,23 +57,5 @@ Cuando no estoy programando, me gusta [tu hobby favorito] y siempre estoy buscan
 💡 *"El código es poesía en movimiento"* - Siempre buscando escribir código limpio y eficiente.
 
 ![Visitantes del perfil](https://visitor-badge.laobi.icu/badge?page_id=JuanesPg20.JuanesPg20)
-```
 
-### 🎨 Características del README:
-
-1. **Estructura clara** con secciones bien definidas
-2. **Emojis** para hacer el contenido más visual y atractivo
-3. **Destacar Laravel** como tu fuerte principal
-4. **Estadísticas dinámicas** de GitHub que se actualizan automáticamente
-5. **Sección de contacto** para networking
-6. **Diseño profesional** pero con personalidad
-
-### 📝 Para personalizar:
-
-- Reemplaza `JuanesPg20` con tu username real de GitHub
-- Agrega tus enlaces reales de redes sociales
-- Personaliza el "dato curioso" con algo sobre ti
-- Ajusta los colores del theme (puedes usar: `dark`, `radical`, `merko`, `gruvbox`, `tokyonight`, etc.)
-
-¿Te gusta esta versión? ¿Quieres que ajuste algo específico o agregue alguna sección adicional?
 

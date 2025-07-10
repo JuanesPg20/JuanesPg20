@@ -182,34 +182,5 @@ console.log("¡Gracias por visitar mi perfil! 🙌");
 ![Visitor Count](https://profile-counter.glitch.me/JuanesPg20/count.svg)
 
 </div>
-```
 
-### 🎨 Características Súper Animadas:
-
-1. **🎬 Texto animado** que se escribe solo con diferentes mensajes
-2. **🎯 GIFs dinámicos** que dan vida al perfil
-3. **📊 Estadísticas en tiempo real** con tema nocturno
-4. **🏆 Sistema de logros** animado
-5. **💫 Efectos visuales** con ondas y gradientes
-6. **🎮 Sección interactiva** con código JavaScript
-7. **📱 Badges modernos** para redes sociales
-8. **🌊 Header y footer** con efectos de onda
-
-### ✨ Lo que hace especial este README:
-
-- **Refleja tu mentalidad de crecimiento** 🌱
-- **Muestra tu trayectoria académica completa** 🎓
-- **Destaca tu disposición para aprender** 📚
-- **Incluye animaciones que captan la atención** 🎬
-- **Diseño profesional pero divertido** 🎨
-
-¿Te gusta esta versión súper animada? ¡Es perfecta para mostrar tu personalidad y pasión por la tecnología! 🚀
-
-<Actions>
-  <Action name="Agregar más GIFs temáticos" description="Incluir más animaciones relacionadas con programación" />
-  <Action name="Personalizar colores del tema" description="Cambiar la paleta de colores a tu preferencia" />
-  <Action name="Agregar sección de certificaciones" description="Mostrar cursos y certificaciones completadas" />
-  <Action name="Incluir roadmap de aprendizaje" description="Mostrar qué tecnologías planeas aprender próximamente" />
-  <Action name="Crear sección de contribuciones" description="Agregar gráfico de contribuciones con efectos visuales" />
-</Actions>
 

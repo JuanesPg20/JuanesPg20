@@ -217,20 +217,9 @@ console.log("¡Gracias por visitar mi perfil! 🙌");
 ### 🎵 Actualmente escuchando en Spotify
 [![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/tu_usuario_spotify)
 
-<br>
-
-### 👀 Visitantes del Perfil
-![Visitor Count](https://profile-counter.glitch.me/JuanesPg20/count.svg)
-
-<br>
-
-### 🐍 Contribuciones
-![Snake animation](https://github.com/JuanesPg20/JuanesPg20/blob/output/github-contribution-grid-snake.svg)
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&text=¡Gracias%20por%20tu%20visita!&fontSize=16&fontAlignY=65&desc=Sigamos%20construyendo%20el%20futuro%20con%20código&descAlignY=50&descAlign=center&animation=twinkling"/>
-```
 
 
 <Actions>

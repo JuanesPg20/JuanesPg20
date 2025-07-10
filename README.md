@@ -95,8 +95,6 @@ class DesarrolladorEnConstanteEvolucion {
 | 💻 | **Tecnólogo en Desarrollo de Software** | ✅ Completado |
 | ⚙️ | **Técnico en Programación** | ✅ Completado |
 
-<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="300">
-
 </div>
 
 ---
@@ -147,12 +145,6 @@ const datosCuriosos = {
 
 console.log("¡Gracias por visitar mi perfil! 🙌");
 ```
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300">
-
-### 🏆 Logros Desbloqueados
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=JuanesPg20&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
